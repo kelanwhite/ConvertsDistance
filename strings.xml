@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConvertsDistance</string>
+    <string name="Mile">To Mile</string>
+    <string name="Calculate">Calculate</string>
+    <string name="specify_value">Specify Value :</string>
+    <string name="Kilometre">To Kilometre</string>
+</resources>
